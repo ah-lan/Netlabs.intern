@@ -22,5 +22,10 @@ def calc(m,y):
 total,product=calc(2,3)
 print (total,product)
 
+def calc(m,y):
+    return m+y,m*y
+total,product=calc(2,3)
+print (total,product)  
+print(x)
     
 
